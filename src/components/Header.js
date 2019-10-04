@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import pic01 from '../images/favicon-96x96.png'
+// import pic01 from '../images/favicon-96x96.png'
+import pic01 from '../images/muebles.guapos.logo.svg'
+
 //<span className="icon fa-diamond"></span>
 /*
 <nav>

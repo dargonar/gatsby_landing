@@ -65,6 +65,13 @@
 				width: 4rem;
 				height: 4rem;
 			}
+
+			@include breakpoint(small) {
+				img {
+					margin-top: 0.38rem;
+					
+				}			
+			}
 		}
 
 		.content {

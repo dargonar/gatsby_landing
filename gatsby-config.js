@@ -15,7 +15,8 @@ module.exports = {
         background_color: '#000000',
         theme_color: '#000000',
         display: 'minimal-ui',
-        icon: 'src/images/favicon-96x96.png', // This path is relative to the root of the site.
+        // icon: 'src/images/favicon-96x96.png', // This path is relative to the root of the site.
+        icon: 'src/images/muebles.guapos.logo.svg',
       },
     },
     'gatsby-plugin-sass',
