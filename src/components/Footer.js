@@ -8,7 +8,7 @@ const Footer = (props) => (
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.facebook.com/muebles.guapos" target="_blank" style={{textDecoration:'none'}} ><span className="icon fa-facebook"></span></a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://wa.me/5491169719004?text=Hola!" target="_blank" style={{textDecoration:'none'}} ><span className="icon fa-whatsapp"></span></a>
+        <a href="https://wa.me/5492215939645?text=Hola!" target="_blank" style={{textDecoration:'none'}} ><span className="icon fa-whatsapp"></span></a>
       
     </footer>
 )
